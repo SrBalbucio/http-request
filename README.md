@@ -7,6 +7,8 @@ A very small (160KB, zero dependency) HTTP client for Java using HttpURLConnecti
 
 ## Install with Maven, on pom.xml:
 
+Click here to use [Github Packages](https://github.com/SrBalbucio/http-request/packages/).
+
 ```
 <repositories>
     <repository>
